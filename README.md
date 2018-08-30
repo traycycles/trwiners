@@ -1,5 +1,3 @@
 # trwiners
-bootstrap site for community winers
+bootstrap 4 serverless site for community winos
 
-Using template Mark liked and customizing for us. Bootstrap 4.
-Perhaps use AWS S3
