@@ -133,6 +133,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
    margin-bottom: 1.8rem;
 }
 
+@media only screen and (max-width:800px) and (min-width: 753px){
+    body{
+        line-height: 1.8;
+    }
+}
+
 @media only screen and (max-width:600px) {
    h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       margin-top: 5.1rem;
@@ -2027,7 +2033,7 @@ body.search-is-visible {
 
 @media only screen and (max-width:800px) {
    .s-pageheader {
-      min-height: 150px;
+      min-height: 175px;
    }
 
    .s-pageheader--home {
@@ -2075,7 +2081,7 @@ body.search-is-visible {
 
 @media only screen and (max-width:600px) {
    .s-pageheader {
-      min-height: 84px;
+      min-height: 200px;
    }
 
    /*.header__logo img {*/
@@ -2099,7 +2105,7 @@ body.search-is-visible {
 
 @media only screen and (max-width:400px) {
    .s-pageheader {
-      min-height: 78px;
+      min-height: 200px;
    }
 
    .s-pageheader--home {
