@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <red_wines>
+        <wine id="rd1">
+            <title lang="en">Dylan's Ghost</title>
+            <producer>Dylan&apos;s Ghost Winery</producer>
+            <vintage>2015</vintage>
+            <varietal>Cab Franc, Zinfandel, Syrah</varietal>
+            <region_country>Napa, CA</region_country>
+            <price>$60 list, $24 sale</price>
+            <where>Vivino.com</where>
+            <description>From the storied Del Barba vineyard est. in early 1900s, Renowned winemaker Aaron Pott selected
+                21 barrels of heirloom grapes that were on a different level than the rest. Lot 21 is deep, full bodied,
+                and exploding with complexity--smoky Syrah, juicy Zinfandel, and earthy Cabernet Franc. Only a handful of barrels
+                of this wine were ever made. It&apos;s a blend of grapevines that have survived and flourished since before World War I.
+            </description>
+            <date>September 2018</date>
+            <brought_by>Mark T.</brought_by>
+        </wine>
+        <wine id="rd2">
+            <title lang="en">Hot to Trot</title>
+            <producer>14 Hands</producer>
+            <region_country>Columbia Valley, WA</region_country>
+            <price>$9</price>
+            <where>Total Wine</where>
+            <description>Predominately merlot and Syrah. 13.5% notes: &quot;this polished red wine offers aromas of cherry, red currrant,
+                and tea. Flavors of cherries, ripe berries, and plums supported by a frame of refined tannins give way to sybtle notes
+                of baking spice on a persistent finish.&quot;</description>
+            <date>September 2018</date>
+            <brought_by>Sharon T.</brought_by>
+        </wine>
+    </red_wines>
+    <white_wines>
+
+    </white_wines>
+</catalog>
